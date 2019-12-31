@@ -9,7 +9,6 @@
 <script>
   // 根实例
   export default {
-    el: '#app',
     data () {
       return {
 
