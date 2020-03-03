@@ -1,6 +1,5 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
     <router-view/>
   </div>
 </template>
@@ -12,5 +11,5 @@
 </script>
 
 <style lang="scss">
-  @import "./style/style.scss";
+
 </style>
